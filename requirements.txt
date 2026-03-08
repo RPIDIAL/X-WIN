@@ -1,0 +1,8 @@
+torch==2.4.1
+torchvision==0.19.1
+numpy==1.24.3
+pillow==10.4.0
+matplotlib==3.7.5
+diffdrr==0.5.1
+fvcore==0.1.5.post20221221
+ptflops==0.7.3
